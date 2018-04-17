@@ -1,0 +1,56 @@
+.box{
+	background: #73e;
+	width: 500px;
+	height: 600px;
+	margin: auto;
+	margin-top:40px;
+}
+
+input{
+	border: none;
+	width: 200px;
+	margin:20px 0 20px 0;
+}
+
+button{
+	padding: 15px;
+	margin-left: 50px;
+	display: block;
+}
+
+.fpassword{
+	margin: auto;
+	margin-top: 200px;
+	background: cyan;
+	width: 400px;
+	height: 400px;
+	margin-top: 30px;
+}
+
+.fpassword input{
+	width: 250px;
+	padding: 15px;
+	border-radius: 5px;
+	background: #000;
+	margin-left: 20px;
+}
+
+.fpassword label{
+	margin-left: 20px;
+}
+
+label{
+	margin: 0;
+}
+
+input{
+	margin: 0;
+}
+
+button a{
+	color: #fff;
+}
+
+button{
+	background: #000;
+}
